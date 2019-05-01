@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!--a style for the spalsh screen activity with no action bar-->
+    <style name="SplashScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
 </resources>
