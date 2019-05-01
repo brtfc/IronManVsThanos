@@ -1,5 +1,5 @@
 Creator: Prince Adom
-Co-creators: Toure and Damsey
+Co-creators: Toure and Dempsey
 
 # IronManVsThanos
 an Avengers-Themed TicTacToe game
