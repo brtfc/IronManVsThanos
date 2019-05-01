@@ -17,10 +17,16 @@ please feel free to ask questions. We are also open to suggestions and comments 
 Some design elements emplyed in the making of this game are:
 
 GridLayout 
+
 Constraint layout
+
 ImageViews
+
 TextViews
+
 Buttons: onClick()
+
 Loops
+
 if ... else if ... else structure
 
