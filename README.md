@@ -13,3 +13,14 @@ CST 212 – Programming for Mobile Devices end-of-semester.
 We hope you enjoy the game play.
 
 please feel free to ask questions. We are also open to suggestions and comments as well as criticisms
+
+Some design elements emplyed in the making of this game are:
+
+GridLayout 
+Constraint layout
+ImageViews
+TextViews
+Buttons: onClick()
+Loops
+if ... else if ... else structure
+
